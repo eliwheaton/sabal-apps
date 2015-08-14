@@ -1,17 +1,3 @@
-<nav class="navbar-default top-header">
-  <div class="container-fluid">
-    <div class="navbar-header info">
-      <ul class="list_inline_header">
-                    <li class="pd-20"><span class="glyphicon glyphicon-home"></span>952 Huntley Ave Dunedin, FL 34698</li>
-                    <li class="pd-20"><span class="glyphicon glyphicon-earphone"></span>123-456-7890</li>
-                    <li class="pd-20"><span class="glyphicon glyphicon-envelope"></span>sabalapps@gmail.com</li>
-                  </ul>
-      </a>
-    </div>
-  </div>
-</nav>
-
-
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
