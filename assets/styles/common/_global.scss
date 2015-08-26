@@ -1,0 +1,252 @@
+// Add custom sabal apps styles here
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  }
+
+/* CALL TO ACTION
+---------------------------------- */
+.call-to-action {
+  h1, a {
+    margin: 0;
+  }  
+  p {
+    margin-bottom: 10px;
+  }
+}
+
+.title {
+  color: white;
+}
+
+.btn_color {
+  background-color: white;
+  color: #4CAF50;
+}
+
+/* Small devices (tablets, phones less than 767px) */
+@media (max-width: 767px) {
+  .call-to-action .text-right {
+    text-align: left;
+  }
+}
+
+.section {
+  padding: 20px 0;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.cta-text {
+  color: white;
+}
+
+.quote {
+  background-color: #4CAF50;
+}
+
+.quote_text {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 0px;
+}
+
+.quote_info {
+  margin-top: 0px;
+  color: white;
+}
+
+.quote_button {
+  padding-top: 8px;
+}
+
+.btn-lg {
+  padding: 10px 25px;
+  font-size: 18px;
+  line-height: 1.46666667;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+.radius-50 {
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+}
+
+/* CLIENTS
+---------------------------------- */
+
+.section-title {
+  font-family: 'Raleway', sans-serif;
+  color: #4CAF50;
+}
+
+.clients-container {
+  text-align: center;
+}
+.clients {
+  margin: 10px auto;
+}
+.clients .client-image {
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  display: inline-block;
+}
+.clients img {
+  margin: 0px auto;
+}
+
+/* SERVICES
+---------------------------------- */
+
+.accent-highlight {
+  color: #4CAF50;
+  font-family: 'Raleway', sans-serif;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.services-content-box {
+text-align: center;
+margin: 25px 0;
+}
+
+.services-content-box-icon {
+font-size: 42px;
+color: #111;
+}
+
+.services-content-box-title {
+text-align: center;
+margin: 5px 0 18px;
+}
+
+.services-box {
+position: relative;
+padding-left: 55px;
+margin: 25px 0;
+}
+
+.services-box-icon {
+position: absolute;
+height: 38px;
+width: 38px;
+left: 0;
+top: 0;
+text-align: center;
+line-height: 38px;
+font-size: 28px;
+color: #111;
+}
+
+.services-box-title {
+margin: 0 0 18px;
+font-weight: bold;
+}
+
+.iphone {
+  margin-left: 130px;
+}
+
+.module-title {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 40px;
+  margin-top: 0px;
+}
+
+.address_dark {
+  color: black;
+}
+
+.clients-title {
+  color: #4CAF50;
+}
+
+.separator-2_services {
+  margin-bottom: 50px;
+}
+
+/* RECENT PROJECTS
+---------------------------------- */
+.m25 {
+  margin-top: 25px;
+}
+.main-container {
+  padding: 50px 0;
+}
+.btn-default {
+  color: white;
+  background-color: #4CAF50;
+}
+.overlay-container {
+  position: relative;
+  display: block;
+  text-align: center;
+  overflow: hidden;
+}
+.image-box .body {
+  padding: 5px;
+  text-align: center;
+}
+
+/* NEWSLETTER
+---------------------------------- */
+.pv-40 {
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #4CAF50;
+}
+
+
+
+/* CLIENTS CAROUSEL
+---------------------------------- */
+
+.carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+}
+/* The controlsy */
+.carousel-control {
+  left: -12px;
+    height: 40px;
+  width: 40px;
+    margin-top: 90px;
+}
+.carousel-control.right {
+  right: -12px;
+}
+/* The indicators */
+.carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+/* The colour of the indicators */
+.carousel-indicators li {
+  background: #cecece;
+}
+.carousel-indicators .active {
+background: #428bca;
+}
