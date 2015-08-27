@@ -1,3 +1,4 @@
+
 <section>
 <div class="container-fluid">
   <div class="row">
@@ -5,7 +6,6 @@
   </div>
 </div>
 </section>
-
 
 <!-- section start -->
 <!-- ================ -->
@@ -29,8 +29,6 @@
 </div>
 </section>
 <!-- section end -->
-
-
 
 <!-- section start -->
 <!-- ================ -->
@@ -109,6 +107,7 @@
   </div><!-- row end -->
 </div><!-- container end -->
 </section><!-- section end -->
+
 
 <!-- SERVICES -->
 <section>
@@ -262,12 +261,14 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
               <div class="separator-2"></div>
               <!-- page-title end -->
               <p class="services-content-box-text">Our process on <b class="accent-highlight">Creating Awesome Projects.</b> Lorem ipsum dolor sit amet.</br>Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
+
               <div class="m25"></div>
 <!-- black asphalt slide begins -->
                 <div class="col-sm-6 col-md-3 ">
                   <div class="image-box">
                     <div class="overlay-container">
                       <img src="http://placehold.it/250x250">
+
                     </div>
                     <div class="body">
                       <h3>Black Asphalt</h3>
@@ -284,7 +285,9 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                 <div class="col-sm-6 col-md-3 isotope-item mobile-development">
                   <div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
                     <div class="overlay-container">
+
                       <img src="http://placehold.it/250x250">
+
                     </div>
                     <div class="body">
                       <h3>Sycuan Casino</h3>
@@ -301,7 +304,9 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                 <div class="col-sm-6 col-md-3 isotope-item web-design">
                   <div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
                     <div class="overlay-container">
+
                       <img src="http://placehold.it/250x250">
+
                     </div>
                     <div class="body">
                       <h3>Femme Akoi</h3>
@@ -317,7 +322,9 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                 <div class="col-sm-6 col-md-3 isotope-item mobile-development">
                   <div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
                     <div class="overlay-container">
+
                       <img src="http://placehold.it/250x250">
+
                     </div>
                     <div class="body">
                       <h3>Non-12Step Rehab</h3>
@@ -339,7 +346,9 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
 
       <!-- section start -->
       <!-- ================ -->
+
       <section class="pv-40">
+
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -347,7 +356,9 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                 <div class="row">
                   <div class="col-sm-8 col-sm-offset-2">
                     <h2 class="title">Subscribe to Our Newsletter</h2>
+
                     <p class="cta-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus error pariatur deserunt laudantium nam, mollitia quas nihil inventore, quibusdam?</p>
+
                     <div class="separator"></div>
                     <form class="form-inline margin-clear">
                       <div class="form-group has-feedback">
@@ -355,7 +366,9 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                         <input type="email" class="form-control" id="subscribe2" placeholder="Enter email" name="subscribe2" required="">
                         <i class="fa fa-envelope form-control-feedback"></i>
                       </div>
+
                       <button type="submit" class="btn btn_color margin-clear">Submit <i class="fa fa-send"></i></button>
+
                     </form>
                   </div>
                 </div>

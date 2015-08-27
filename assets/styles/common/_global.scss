@@ -1,4 +1,6 @@
+
 btn-lg// Add custom sabal apps styles here
+
 
 img {
   display: block;
@@ -7,12 +9,14 @@ img {
 }
 
 
+
 .img-responsive {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 0;
   }
+
 
 /* CALL TO ACTION
 ---------------------------------- */
@@ -25,6 +29,7 @@ img {
   }
 }
 
+
 .title {
   color: white;
 }
@@ -33,6 +38,7 @@ img {
   background-color: white;
   color: #4CAF50;
 }
+
 
 /* Small devices (tablets, phones less than 767px) */
 @media (max-width: 767px) {
@@ -49,9 +55,11 @@ img {
   margin-top: 10px;
 }
 
+
 .cta-text {
   color: white;
 }
+
 
 .quote {
   background-color: #4CAF50;
@@ -86,12 +94,15 @@ img {
   border-radius: 25px;
 }
 
+
 /* CLIENTS
 ---------------------------------- */
 
 .section-title {
+
   font-family: 'Raleway', sans-serif;
   color: #4CAF50;
+
 }
 
 .clients-container {
@@ -123,6 +134,7 @@ img {
   margin-top: 20px;
 }
 
+
 .services-content-box {
 text-align: center;
 margin: 25px 0;
@@ -137,6 +149,7 @@ color: #111;
 text-align: center;
 margin: 5px 0 18px;
 }
+
 
 .services-box {
 position: relative;
@@ -174,6 +187,7 @@ font-weight: bold;
   margin-top: 0px;
 }
 
+
 .address_dark {
   color: black;
 }
@@ -182,18 +196,21 @@ font-weight: bold;
   color: #4CAF50;
 }
 
+
 .separator-2_services {
   margin-bottom: 50px;
 }
 
 /* RECENT PROJECTS
 ---------------------------------- */
+
 .m25 {
   margin-top: 25px;
 }
 .main-container {
   padding: 50px 0;
 }
+
 .btn-default {
   color: white;
   background-color: #4CAF50;
@@ -205,6 +222,7 @@ font-weight: bold;
   overflow: hidden;
 }
 .image-box .body {
+
   padding: 5px;
   text-align: center;
 }
@@ -250,4 +268,5 @@ font-weight: bold;
 }
 .carousel-indicators .active {
 background: #428bca;
+
 }

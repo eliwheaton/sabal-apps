@@ -1,3 +1,4 @@
+
 <footer id="footer" class="clearfix light">
 
 				<!-- .footer start -->
