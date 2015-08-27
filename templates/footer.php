@@ -40,4 +40,3 @@
 				<!-- .footer end -->
 
 			</footer>
-			<!-- footer end -->

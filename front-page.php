@@ -30,6 +30,8 @@
 </section>
 <!-- section end -->
 
+
+
 <!-- section start -->
 <!-- ================ -->
 <section class="pv-30 clearfix">
@@ -41,6 +43,7 @@
       <div class="separator-2"></div>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, <br> sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
 
+<<<<<<< HEAD
      
 
  <div class="well-none">
@@ -107,6 +110,47 @@
   </div><!-- row end -->
 </div><!-- container end -->
 </section><!-- section end -->
+=======
+     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+<div class="clients-container">
+<div class="clients">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                  <img src="http://placehold.it/300x300">
+                <div class="carousel-caption">
+                  FIRST
+                </div>
+              </div>
+              <div class="item">
+                  <img src="http://placehold.it/300x300">
+                <div class="carousel-caption">
+                  SECOND
+                </div>
+              </div>
+            </div>
+</div>
+</div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+ 
+</div>
+>>>>>>> 95f68aec27b1dd7c61e49c460e2b32a6a5a03585
 
 
 <!-- SERVICES -->
@@ -261,14 +305,20 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
               <div class="separator-2"></div>
               <!-- page-title end -->
               <p class="services-content-box-text">Our process on <b class="accent-highlight">Creating Awesome Projects.</b> Lorem ipsum dolor sit amet.</br>Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95f68aec27b1dd7c61e49c460e2b32a6a5a03585
               <div class="m25"></div>
 <!-- black asphalt slide begins -->
                 <div class="col-sm-6 col-md-3 ">
                   <div class="image-box">
                     <div class="overlay-container">
                       <img src="http://placehold.it/250x250">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95f68aec27b1dd7c61e49c460e2b32a6a5a03585
                     </div>
                     <div class="body">
                       <h3>Black Asphalt</h3>
@@ -285,8 +335,10 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                 <div class="col-sm-6 col-md-3 isotope-item mobile-development">
                   <div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
                     <div class="overlay-container">
+<<<<<<< HEAD
 
                       <img src="http://placehold.it/250x250">
+
 
                     </div>
                     <div class="body">
@@ -305,8 +357,8 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                   <div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
                     <div class="overlay-container">
 
-                      <img src="http://placehold.it/250x250">
 
+                      <img src="http://placehold.it/250x250">
                     </div>
                     <div class="body">
                       <h3>Femme Akoi</h3>
@@ -323,8 +375,8 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                   <div class="image-box style-2 mb-20 shadow bordered light-gray-bg text-center">
                     <div class="overlay-container">
 
-                      <img src="http://placehold.it/250x250">
 
+                      <img src="http://placehold.it/250x250">
                     </div>
                     <div class="body">
                       <h3>Non-12Step Rehab</h3>
@@ -348,7 +400,6 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
       <!-- ================ -->
 
       <section class="pv-40">
-
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -366,6 +417,7 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                         <input type="email" class="form-control" id="subscribe2" placeholder="Enter email" name="subscribe2" required="">
                         <i class="fa fa-envelope form-control-feedback"></i>
                       </div>
+
 
                       <button type="submit" class="btn btn_color margin-clear">Submit <i class="fa fa-send"></i></button>
 
