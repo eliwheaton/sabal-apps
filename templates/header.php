@@ -47,27 +47,31 @@
                         <!-- main-menu -->
                         <ul class="nav navbar-nav">
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html">Home</a>
+                            <a href="/front-page">Home</a>
                           </li>
                           
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html">Blog</a>
+                            <a href="/blog">Blog</a>
                           </li>
 
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html">Services</a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Services <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              <li><a href="/services/web-design">Web Design</a></li>
+                              <li><a href="/services/web-development">Web Development</a></li>
+                            </ul>
                           </li>
 
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html">Portfolio</a>
+                            <a href="/portfolio">Portfolio</a>
                           </li>
 
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html">Pricing</a>
+                            <a href="/pricing">Pricing</a>
                           </li>
 
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="page-contact.php">Contact Us</a>
+                            <a href="/contact">Contact Us</a>
                           </li>
                         </ul>
                       </div>
