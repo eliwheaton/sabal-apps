@@ -13,9 +13,9 @@
 
     <div class="col-md-6">
       <ul class="list-inline company-info">
-        <li>952 Huntley Ave Dunedin, FL 34698</li>
-        <li>123-456-7890</li>
-        <li>sabalapps@gmail.com</li>
+        <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>  952 Huntley Ave Dunedin, FL 34698</li>
+        <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  123-456-7890</li>
+        <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  sabalapps@gmail.com</li>
       </ul>
     </div>
 
@@ -67,7 +67,7 @@
                           </li>
 
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html">Contact Us</a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="page-contact.php">Contact Us</a>
                           </li>
                         </ul>
                       </div>

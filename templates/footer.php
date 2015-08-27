@@ -12,11 +12,11 @@
 										<p class="footer_paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus illo vel dolorum soluta consectetur doloribus sit. Delectus non tenetur odit dicta vitae debitis suscipit doloribus. Lorem ipsum dolor sit amet, illo vel dolorum soluta consectetur.</p>
 										<ul class="list-inline mb-20">
 
-											<li><i class="text-default fa fa-map-marker pr-5 address_dark"></i>952 Huntley Ave Dunedin, FL 34698</li>
+											<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>    952 Huntley Ave Dunedin, FL 34698</li>
 
-											<li><a href="tel:+00 1234567890" class="link-dark"><i class="text-default fa fa-phone pl-10 pr-5"></i>123-456-7890</a></li>
+											<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span><a href="tel:+00 1234567890" class="link-dark">    123-456-7890</a></li>
 
-											<li><a href="mailto:info@theproject.com" class="link-dark"><i class="text-default fa fa-envelope-o pl-10 pr-5"></i>sabalapps@gmail.com</a></li>
+											<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:info@theproject.com" class="link-dark">    sabalapps@gmail.com</a></li>
 
 										</ul>   
 										<ul class="social-links margin-clear">

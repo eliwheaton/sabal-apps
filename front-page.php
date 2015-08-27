@@ -1,7 +1,7 @@
 <section>
 <div class="container-fluid">
   <div class="row">
-      <img src="<?php echo bloginfo('template_directory'); ?>/assets/images/responsive-image.jpg" class="img-responsive center-block" alt="Responsive image">
+      <img src="<?php echo bloginfo('template_directory'); ?>/assets/images/responsive-image1600x550.jpg" class="img-responsive center-block" alt="Responsive image">
   </div>
 </div>
 </section>

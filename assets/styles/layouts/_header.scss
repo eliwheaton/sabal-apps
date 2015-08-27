@@ -9,7 +9,7 @@
 }
 
 .header-icons li {
-  padding-right: 15px;
+  padding-right: 12px;
 }
 
 .logo_text {
@@ -25,6 +25,13 @@
 
 .navbar-nav {
   margin-top: 15px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #4CAF50;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 50px;
 }
 
 .navbar-brand {
