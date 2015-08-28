@@ -3,9 +3,9 @@
 ---------------------------------- */
 
 .header-nav {
-  background-color: #4CAF50;
+  background-color: $main;
   margin: 0;
-  height: 50px;
+  height: 40px;
 }
 
 .header-icons {
@@ -14,17 +14,17 @@
 }
 
 .header-icons li {
-  padding-right: 12px;
+  padding-right: 17px;
 }
 
 .company-info {
   color: white;
-  margin-top: 15px;
-  text-align: center; 
+  margin-top: 30px;
+  text-align: left; 
 }
 
 .bt-mt {
-  margin-top: 9px;
+  margin-top: 3px;
   text-align: right;
 }
 
@@ -54,24 +54,24 @@
 ---------------------------------- */
 
 .navbar-default .navbar-nav > li > a {
-    color: #4CAF50;
+    color: $main;
     font-size: 15px;
     text-align: center;
     padding-left: 50px;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: red;
+    color: $navlink-hover;
 }
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
-    color: red;
-    background-color: #ffffff;
+    color: $navlink-hover;
+    background-color: transparent;
 }
 .navbar-default .navbar-nav > .open > a, 
 .navbar-default .navbar-nav > .open > a:hover, 
 .navbar-default .navbar-nav > .open > a:focus {
-    color: red;
-    background-color: #ffffff;
+    color: $navlink-hover;
+    background-color: transparent;
 }

@@ -4,13 +4,12 @@
   <div class="row">
     <div class="col-md-3">
       <ul class="list-inline header-icons">
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/facebook32x32.png" href="www.facebook.com" alt="facebook"></li>
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/twitter32x32.png" href="www.twitter.com" alt="twitter"></li>
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/google32x32.png" href="www.google.com" alt="google-plus"></li>
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/linkedin32x32.png" href="linkedin.com" alt="linkedin"></li>
+        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/facebook24x24white.png" href="www.facebook.com" alt="facebook"></li>
+        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/twitter24x24white.png" href="www.twitter.com" alt="twitter"></li>
+        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/google24x24white.png" href="www.google.com" alt="google-plus"></li>
+        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/linkedin24x24white.png" href="linkedin.com" alt="linkedin"></li>
       </ul>
     </div>
-
 
     <div class="col-md-6">
       <ul class="list-inline company-info">
@@ -78,3 +77,4 @@
                       </div>
     </div>
   </div>
+</nav>
