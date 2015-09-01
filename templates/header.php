@@ -47,7 +47,7 @@
                         <!-- main-menu -->
                         <ul class="nav navbar-nav">
                           <li>
-                            <a href="/front-page">Home</a>
+                            <a href="/home">Home</a>
                           </li>
                           
                           <li>
