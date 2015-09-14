@@ -56,6 +56,7 @@ function display_sidebar() {
         'is_front_page',
         ['is_page', ['contact']],
         ['is_page', ['portfolio']],
+        ['is_page', ['pricing']],
         ['is_page_template', ['template-custom.php', 'template-service.php', 'template-blog.php']]
       ]
     );

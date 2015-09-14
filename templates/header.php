@@ -11,16 +11,12 @@
       </ul>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-7">
       <ul class="list-inline company-info">
         <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>  952 Huntley Ave Dunedin, FL 34698</li>
-        <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  123-456-7890</li>
+        <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  1 (727) 386-9753</li>
         <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  sabalapps@gmail.com</li>
       </ul>
-    </div>
-
-    <div class="col-md-2 bt-mt">
-      <a class="btn btn-default" href="#" role="button">Login</a>
     </div>
 
   </div><!-- row -->

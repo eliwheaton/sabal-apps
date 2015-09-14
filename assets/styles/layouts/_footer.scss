@@ -1,5 +1,94 @@
-/* Separator
----------------------------------- */
+.footer {
+    background-color:white;
+}
+
+.footer-margin {
+  margin-top: 10px;
+}
+
+
+.col-title {
+  font-family: 'Raleway', sans-serif;
+  color: #4CAF50;
+}
+
+.hrwidth {
+  width: 90%;
+  height: 2px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    color: #cac9c9;
+    background-color: #cac9c9;
+}
+
+.hr-space {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.row.vdivide [class*='col-']:after {
+  background: #cac9c9;
+  width: 1px;
+  content: "";
+  display:block;
+  position: absolute;
+  top:10px;
+  bottom: 0;
+  right: 0;
+  min-height: 70px;
+}
+
+.row.vdivide [class*='col-']:last-child {
+  border-right: none;
+}
+
+.footer-social li {
+  padding-left: 15px;
+}
+
+.footer-browse {
+  margin-top: 10px;
+  color: black;
+}
+
+.footer-browse li {
+  margin-bottom: 25px;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .footer {
 	margin-top: 20px;
   font-size: 14px;
@@ -9,10 +98,6 @@
 .footer-content .separator-2,
 .footer-content .separator-3 {
   margin-bottom: 25px;
-}
-.list-inline {
-  margin-top: 9px;
-  margin-bottom: 8px;
 }
 
 .footer h2.title {
@@ -85,3 +170,4 @@
   border-color: #0c9ec7;
   color: #0c9ec7;
 }
+*/

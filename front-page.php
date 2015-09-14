@@ -39,7 +39,6 @@
     <div class="col-md-12">
 
       <h2 class="section-title">Our Clients</h2>
-      <div class="separator-2"></div>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, <br> sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
      
 
@@ -108,143 +107,77 @@
 </div><!-- container end -->
 </section><!-- section end -->
 
-<!-- SERVICES -->
-<section>
+
+
 <div class="container">
-<div class="row">
-<div class="col-md-12">
-<!-- SERVICES TITLE -->
-<h2 class="section-title">Services</h2>
-<div class="separator-2"></div>
-<p>The <b class="accent-highlight">#1 Mobile App</b> &amp; <b class="accent-highlight">Mobile Website</b> Creator For Small Businesses! Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>At distinctio quia, et natus nulla cumque consequuntur,  sed, quam aliquam excepturi ea necessitatibus.</p>
-</div>
-</div>
-<!-- /SERVICES TITLE -->
+  <div class="row">
+    <div class="col-lg-12">
+      <h2 class="section-title text-center">Our process on creating awesome projects</h2>
+      <hr class="col-md-4 col-md-offset-4">
 
-<div class="row mt-20">
+<!-- secton 1 -->
+      <section>
+      <div class="col-md-6">
+        <a href="#x"><img src="http://placehold.it/500x300" alt="Image" class="img-responsive"></a>
+      </div>
 
-<div class="col-sm-6 col-md-3 col-lg-3">
+       <div class="col-md-6">
+        <h4 class="section-title">Make It Beautiful</h4>
+        <p>Eros metus quam augue suspendisse, metus rutrum risus erat in.  In ultrices quo ut lectus, etiam vestibulum urna a est, pretium luctus euismod nisl. Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
+      </div>
+      </section>
+<!-- secton 1 -->
 
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/strategy-3.png"></span>
-</div>
-<h6 class="services-box-title">Branding</h6>
-<div class="services-content-box-text">
-The European languages are members of the same family. Their separate existence is a myth.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
+<hr class="col-md-12">
 
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/hammer2.png"></span>
-</div>
-<h6 class="services-box-title">Development</h6>
-<div class="services-content-box-text">
-The European languages are members of the same family. Their separate existence is a myth.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
+<!-- secton 2 -->
+      <section>
+      <div class="col-md-6">
+        <h4 class="section-title">Make It Work</h4>
+        <p>Eros metus quam augue suspendisse, metus rutrum risus erat in.  In ultrices quo ut lectus, etiam vestibulum urna a est, pretium luctus euismod nisl. Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
+      </div>
 
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/goal5.png"></span>
-</div>
-<h6 class="services-box-title">Marketing</h6>
-<div class="services-content-box-text">
-The European languages are members of the same family. Their separate existence is a myth.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
+      <div class="col-md-6">
+        <a href="#x"><img src="http://placehold.it/500x300" alt="Image" class="img-responsive"></a>
+      </div>
+      </section>
+<!-- secton 2 -->
 
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/website8.png"></span>
-</div>
-<h6 class="services-box-title">Design</h6>
-<div class="services-content-box-text">
-The European languages are members of the same family. Their separate existence is a myth.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
+<hr class="col-md-12">
 
-</div>
+<!-- secton 3 -->
+      <section>
+      <div class="col-md-6">
+        <a href="#x"><img src="http://placehold.it/500x300" alt="Image" class="img-responsive"></a>
+      </div>
 
-<div class="col-md-6 col-lg-6 hidden-xs hidden-sm">
+       <div class="col-md-6">
+        <h4 class="section-title">Make It Profitable</h4>
+        <p>Eros metus quam augue suspendisse, metus rutrum risus erat in.  In ultrices quo ut lectus, etiam vestibulum urna a est, pretium luctus euismod nisl. Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
+      </div>
+      </section>
+<!-- secton 3 -->
 
-<div class="iphone">
-<img src="<?php echo bloginfo('template_directory'); ?>/assets/images/iphone-1white.png" alt="">
-</div>
+<hr class="col-md-12">
 
-</div>
+<!-- secton 4 -->
+      <section>
+      <div class="col-md-6">
+        <h4 class="section-title">Make It Known</h4>
+        <p>Eros metus quam augue suspendisse, metus rutrum risus erat in.  In ultrices quo ut lectus, etiam vestibulum urna a est, pretium luctus euismod nisl. Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
+      </div>
 
-<div class="col-sm-6 col-md-3 col-lg-3">
+      <div class="col-md-6">
+        <a href="#x"><img src="http://placehold.it/500x300" alt="Image" class="img-responsive"></a>
+      </div>
+      </section>
+<!-- secton 4 -->
 
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/savings1.png"></span>
-</div>
-<h6 class="services-box-title">Extremely Affordable</h6>
-<div class="services-content-box-text">
-More affordable than a newspaper ad, huge return on investment for businesses.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
 
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/website24.png"></span>
+    </div>
+  </div>
+  <hr class="col-md-12">
 </div>
-<h6 class="services-box-title">Powerful Hosting</h6>
-<div class="services-content-box-text">
-Our servers are hosted in the cloud using the latest hosting technology with 99.9% uptime for your apps.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
-
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/cellphone57.png"></span>
-</div>
-<h6 class="services-box-title">Mobile</h6>
-<div class="services-content-box-text">
-The European languages are members of the same family. Their separate existence is a myth.
-</div>
-</div>
-<!-- /SERVICES CONTENT BOX -->
-
-<!-- SERVICES CONTENT BOX -->
-<div class="services-box">
-  
-<div class="services-box-icon">
-<span><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/cloud-storage.png"></span>
-</div>
-<h6 class="services-box-title">Preview Online</h6>
-
-<div class="services-content-box-text">
-We provide a free preview of your app online or from your iPhone, iPad, or Android device.
-</div>
-
-</div>
-<!-- /SERVICES CONTENT BOX -->
-
-</div>
-
-</div>
-
-</div>
-
-</section>
-<!-- /SERVICES SERVICES -->
-
 
 
 <!-- RECENT PROJECTS -->
@@ -260,7 +193,6 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
               <!-- page-title start -->
               <!-- ================ -->
               <h2 class="section-title">Recent Projects</h2>
-              <div class="separator-2"></div>
               <!-- page-title end -->
               <p class="services-content-box-text">Our process on <b class="accent-highlight">Creating Awesome Projects.</b> Lorem ipsum dolor sit amet.</br>Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
               <div class="m25"></div>
@@ -292,7 +224,6 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                     </div>
                     <div class="body">
                       <h3>Sycuan Casino</h3>
-                      <div class="separator"></div>
                       <p>Contracted to create a website for this San Diego casino. Utilized ExpressionEngine with various plugins.</p>
                       <a href="portfolio-item.html" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Read More<i class="fa fa-arrow-right pl-10"></i></a>
                     </div>
@@ -311,7 +242,6 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                     </div>
                     <div class="body">
                       <h3>Femme Akoi</h3>
-                      <div class="separator"></div>
                       <p>Created to display the talents and creativity of a local makeup artist, utilizes an eye-catching design.</p>
                       <a href="portfolio-item.html" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Read More<i class="fa fa-arrow-right pl-10"></i></a>
                     </div>
@@ -329,7 +259,6 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
                     </div>
                     <div class="body">
                       <h3>Non-12Step Rehab</h3>
-                      <div class="separator"></div>
                       <p>This is a smaller type of website that is also optimized to show up in search engine results. A clean and simple design.</p>
                       <a href="portfolio-item.html" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Read More<i class="fa fa-arrow-right pl-10"></i></a>
                     </div>
@@ -345,6 +274,134 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
       </section>
       <!-- main-container end -->
 
+
+
+
+
+<!-- testimonial carousel -->
+<div class="container">
+
+  <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-center">
+        <h2 class="section-title">Testimonials</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
+        </div>
+  </div>
+
+<hr class="col-md-6 col-md-offset-3">
+
+  <div class='row'>
+    <div class='col-md-offset-2 col-md-8'>
+      <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+        <!-- Bottom Carousel Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+          <li data-target="#quote-carousel" data-slide-to="1"></li>
+          <li data-target="#quote-carousel" data-slide-to="2"></li>
+        </ol>
+        
+        <!-- Carousel Slides / Quotes -->
+        <div class="carousel-inner">
+        
+          <!-- Quote 1 -->
+          <div class="item active">
+            <blockquote>
+
+                <div class="col-sm-3 text-center testimonial-img">
+                  <img class="img-circle" src="http://placehold.it/100x100" style="width: 100px;height:100px;">
+                </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                  <p>&ldquo;This site is amazing! New cutting edge design by some talented developers there at SabalApps! Quality is their specialty. Nice work guys!&rdquo;</p>
+                  <small>Steve Jobs
+                    <br>
+                    Apple
+                  </small>
+                </div>
+
+              </div>
+            </blockquote>
+          </div>
+          <!-- Quote 1 ends -->
+
+          <!-- Quote 2 -->
+          <div class="item">
+            <blockquote>
+
+                <div class="col-sm-3 text-center testimonial-img">
+                  <img class="img-circle" src="http://placehold.it/100x100" style="width: 100px;height:100px;">
+                </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                  <p>&ldquo;At Sabal Apps an owner can finally get an industry-specific app; there are solutions for restaurants, bars, gyms, and others.&rdquo;</p>
+                  <small>Bill Gates
+                    <br>
+                    Microsoft
+                  </small>
+                </div>
+
+              </div>
+            </blockquote>
+          </div>
+          <!-- Quote 2 ends -->
+
+          <!-- Quote 3 -->
+          <div class="item">
+            <blockquote>
+
+                <div class="col-sm-3 text-center testimonial-img">
+                  <img class="img-circle" src="http://placehold.it/100x100" style="width: 100px;height:100px;">
+                </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                  <p>&ldquo;Sabal Apps, which focuses on small businesses, allows users to easily manage an app online without any programming knowledge.&rdquo;</p>
+                  <small>Mark Zuckerberg
+                    <br>
+                    Facebook
+                  </small>
+                </div>
+
+              </div>
+            </blockquote>
+          </div>
+          <!-- Quote 3 ends -->
+
+          <!-- Quote 4 -->
+          <div class="item">
+            <blockquote>
+
+                <div class="col-sm-3 text-center testimonial-img">
+                  <img class="img-circle" src="http://placehold.it/100x100" style="width: 100px;height:100px;">
+                </div>
+
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                  <p>&ldquo;Considering how cheap the service is and that apps are custom-made for each business - I think Sabal Apps has great potential.&rdquo;</p>
+                  <small>Kanye West
+                    <br>
+                    Rocafella Records
+                  </small>
+                </div>
+
+              </div>
+            </blockquote>
+          </div>
+          <!-- Quote 4 ends -->
+</div>
+</div>
+</div>
+</div>
+        </div><!-- testimonial container ends -->
+<!-- testimonial carousel section ends -->
+
+
+
+
+
+
       <!-- section start -->
       <!-- ================ -->
 
@@ -359,7 +416,6 @@ We provide a free preview of your app online or from your iPhone, iPad, or Andro
 
                     <p class="cta-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus error pariatur deserunt laudantium nam, mollitia quas nihil inventore, quibusdam?</p>
 
-                    <div class="separator"></div>
                     <form class="form-inline margin-clear">
                       <div class="form-group has-feedback">
                         <label class="sr-only" for="subscribe2">Email address</label>
