@@ -1,1 +1,2 @@
-<h1>Blog page </h1>
+<div id="wrapper">
+</div><!-- wrapper -->

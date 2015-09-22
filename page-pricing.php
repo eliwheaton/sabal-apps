@@ -1,3 +1,4 @@
+<div id="wrapper">
 <div class="container">
       <div class="pricing-tables">
         <div class="row">
@@ -102,3 +103,4 @@
         </div> <!-- row-->
 
       </div> <!-- pricing-tables -->
+</div><!-- wrapper -->

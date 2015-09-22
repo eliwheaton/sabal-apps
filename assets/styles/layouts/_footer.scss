@@ -1,15 +1,15 @@
-.footer {
-    background-color:white;
+#footer {
+  background-color: #373737;
 }
 
 .footer-margin {
-  margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
-
 
 .col-title {
   font-family: 'Raleway', sans-serif;
-  color: #4CAF50;
+  color: white;
 }
 
 .hrwidth {
@@ -17,16 +17,19 @@
   height: 2px;
 }
 
-hr {
+.hr-footer {
     border: none;
     height: 1px;
-    color: #cac9c9;
-    background-color: #cac9c9;
+    color: red;
 }
 
 .hr-space {
   margin-top: 5px;
   margin-bottom: 15px;
+}
+
+.btn {
+  border: none;
 }
 
 .row.vdivide [class*='col-']:after {
@@ -54,12 +57,19 @@ hr {
   color: black;
 }
 
-.footer-browse li {
-  margin-bottom: 25px;
-  color: black;
+#menu-footer-nav {
+  li {
+    padding: 10px; 
+    border-bottom: 1px solid #ddd;
+  }
+  a {
+  color: white;
+  }
 }
 
-
+.bottom-title {
+  margin-top: 15px;
+}
 
 
 

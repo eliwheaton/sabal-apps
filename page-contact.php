@@ -1,3 +1,4 @@
+<div id="wrapper">
 <div class="container">
 <div class="col-md-6">
     <div class="form-area">  
@@ -56,4 +57,5 @@
 
     </div>
 </div>
-
+<div class="contact-body"></div>
+</div><!-- wrapper -->

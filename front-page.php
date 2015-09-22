@@ -1,3 +1,4 @@
+<div id="wrapper">
 <section>
 <div class="container-fluid">
   <div class="row">
@@ -9,23 +10,26 @@
 <!-- section start -->
 <!-- ================ -->
 <section class="section clearfix quote">
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <div class="call-to-action">
-        <div class="row">
-          <div class="col-sm-8">
-            <h3 class="mt-10 text-muted quote_text">Cost of Web &amp; Mobile Development</h3>
-            <p class="quote_info">Use our form to estimate the intial cost of web and mobile development</p>
-          </div>
-          <div class="col-sm-4 text-right quote_button">
-            <a href="#" class="btn btn-default btn-lg">Request A Quote</a>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="call-to-action">
+          <div class="row">
+            
+            <div class="col-sm-8">
+              <h3 class="mt-10 text-muted quote_text">Cost of Web &amp; Mobile Development</h3>
+              <p class="quote_info">Use our form to estimate the intial cost of web and mobile development</p>
+            </div>
+
+            <div class="col-sm-4 text-right quote_button">
+              <a href="#" class="btn btn-default btn-lg">Request A Quote</a>
+            </div>
+
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 </section>
 <!-- section end -->
 
@@ -42,76 +46,89 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, <br> sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
      
 
- <div class="well-none">
-            <div id="myCarousel" class="carousel slide">
-                
-                <!-- Carousel items -->
-                <div class="carousel-inner">
-                    <div class="item active">
-                        <div class="row">
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                        </div>
-                        <!--/row-->
-                    </div>
-                    <!--/item-->
-                    <div class="item">
-                        <div class="row">
+            <div class="row">
+              <div class="col-md-12">
+                        <div id="Carousel" class="carousel slide">
+                             
+                            <ol class="carousel-indicators">
+                                <li data-target="#Carousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#Carousel" data-slide-to="1"></li>
+                                <li data-target="#Carousel" data-slide-to="2"></li>
+                            </ol>
+                             
 
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
+                          <!-- Carousel items -->
+                          <div class="carousel-inner">
+                                
+                            <div class="item active">
+                              <div class="row">
+                                  <div class="col-md-3">
+                                    <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                  </div>
+                                  <div class="col-md-3">
+                                    <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                  </div>
+                                  <div class="col-md-3">
+                                    <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                  </div>
+                                  <div class="col-md-3">
+                                    <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                  </div>   
+                              </div><!--.row-->
+                            </div><!--.item-->
 
-                        </div>
-                        <!--/row-->
-                    </div>
-                    <!--/item-->
-                    <div class="item">
-                        <div class="row">
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                            <div class="col-sm-3 col-xs-6"><a href="#x"><img src="http://placehold.it/500x500" alt="Image" class="img-responsive"></a>
-                            </div>
-                        </div>
-                        <!--/row-->
-                    </div>
-                    <!--/item-->
-                </div>
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev"><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/arrows/leftarrow32x32.png"></a>
-
-                <a class="right carousel-control" href="#myCarousel" data-slide="next"><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/arrows/rightarrow32x32.png"></a>
-            </div>
-            <!--/myCarousel-->
-        </div>
-        <!--/well-->
+                             
+                            <div class="item">
+                              <div class="row">
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                              </div><!--.row-->
+                            </div><!--.item-->
+                             
+                            <div class="item">
+                              <div class="row">
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                                <div class="col-md-3">
+                                  <a href="#" class="thumbnail"><img src="http://placehold.it/250x250" alt="Image" style="max-width:100%;"></a>
+                                </div>
+                              </div><!--.row-->
+                            </div><!--.item-->
+                             
+                          </div><!--.carousel-inner-->
+                              <a data-slide="prev" href="#Carousel" class="left carousel-control">‹</a>
+                              <a data-slide="next" href="#Carousel" class="right carousel-control">›</a>
+                        </div><!--.Carousel-->   
+              </div><!--.col -->
+            </div><!--.row -->
                  
-              
-    
-    </div><!-- col end -->
-  </div><!-- row end -->
-</div><!-- container end -->
+      </div><!-- col end -->
+    </div><!-- row end -->
+  </div><!-- container end -->
 </section><!-- section end -->
 
 
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-12">
+    <div class="col-md-12">
       <h2 class="section-title text-center">Our process on creating awesome projects</h2>
       <hr class="col-md-4 col-md-offset-4">
 
@@ -196,6 +213,7 @@
               <!-- page-title end -->
               <p class="services-content-box-text">Our process on <b class="accent-highlight">Creating Awesome Projects.</b> Lorem ipsum dolor sit amet.</br>Consectetur adipisicing elit Illo quaerat commodi excepturi dignissimos!</p>
               <div class="m25"></div>
+
 <!-- black asphalt slide begins -->
                 <div class="col-sm-6 col-md-3 ">
                   <div class="image-box">
@@ -206,7 +224,7 @@
                       <h3>Black Asphalt</h3>
                       <div class="separator"></div>
                       <p>The Desert Snow Training Program has provided the law enforcement community with the finest interdiction training.</p>
-                      <a class="btn btn-default" href="#" role="button">Read More</a>
+                      <a class="btn btn-primary" href="/portfolio">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
                     </div>
                   </div>
                 </div>
@@ -225,7 +243,7 @@
                     <div class="body">
                       <h3>Sycuan Casino</h3>
                       <p>Contracted to create a website for this San Diego casino. Utilized ExpressionEngine with various plugins.</p>
-                      <a href="portfolio-item.html" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Read More<i class="fa fa-arrow-right pl-10"></i></a>
+                      <a class="btn btn-primary" href="/portfolio">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
                     </div>
                   </div>
                 </div>
@@ -243,7 +261,7 @@
                     <div class="body">
                       <h3>Femme Akoi</h3>
                       <p>Created to display the talents and creativity of a local makeup artist, utilizes an eye-catching design.</p>
-                      <a href="portfolio-item.html" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Read More<i class="fa fa-arrow-right pl-10"></i></a>
+                      <a class="btn btn-primary" href="/portfolio">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
                     </div>
                   </div>
                 </div>
@@ -260,7 +278,7 @@
                     <div class="body">
                       <h3>Non-12Step Rehab</h3>
                       <p>This is a smaller type of website that is also optimized to show up in search engine results. A clean and simple design.</p>
-                      <a href="portfolio-item.html" class="btn btn-default btn-sm btn-hvr hvr-shutter-out-horizontal margin-clear">Read More<i class="fa fa-arrow-right pl-10"></i></a>
+                      <a class="btn btn-primary" href="/portfolio">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
                     </div>
                   </div>
                 </div>
@@ -397,14 +415,8 @@
         </div><!-- testimonial container ends -->
 <!-- testimonial carousel section ends -->
 
-
-
-
-
-
       <!-- section start -->
       <!-- ================ -->
-
       <section class="pv-40">
         <div class="container">
           <div class="row">
@@ -434,5 +446,5 @@
           </div>
         </div>
       </section>
-      <div class="clearfix"></div>
       <!-- section end -->
+</div>

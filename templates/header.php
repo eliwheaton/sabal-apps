@@ -1,26 +1,26 @@
 
 <section class="header-nav">
-<div class="container">
-  <div class="row">
-    <div class="col-md-3">
-      <ul class="list-inline header-icons">
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/facebook24x24white.png" href="www.facebook.com" alt="facebook"></li>
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/twitter24x24white.png" href="www.twitter.com" alt="twitter"></li>
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/google24x24white.png" href="www.google.com" alt="google-plus"></li>
-        <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/linkedin24x24white.png" href="linkedin.com" alt="linkedin"></li>
-      </ul>
-    </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <ul class="list-inline header-icons">
+          <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/facebook32x32.png" href="www.facebook.com" alt="facebook"></li>
+          <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/twitter32x32.png" href="www.twitter.com" alt="twitter"></li>
+          <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/google32x32.png" href="www.google.com" alt="google-plus"></li>
+          <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/linkedin32x32.png" href="linkedin.com" alt="linkedin"></li>
+        </ul>
+      </div>
 
-    <div class="col-md-7">
-      <ul class="list-inline company-info">
-        <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>  952 Huntley Ave Dunedin, FL 34698</li>
-        <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  1 (727) 386-9753</li>
-        <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  sabalapps@gmail.com</li>
-      </ul>
-    </div>
+      <div class="col-md-7">
+        <ul class="list-inline company-info">
+          <li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>  952 Huntley Ave Dunedin, FL 34698</li>
+          <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  1 (727) 386-9753</li>
+          <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  sabalapps@gmail.com</li>
+        </ul>
+      </div>
 
-  </div><!-- row -->
-</div><!-- container -->
+    </div><!-- row -->
+  </div><!-- container -->
 </section>
 
 
@@ -28,10 +28,10 @@
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
 
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
         
@@ -45,17 +45,9 @@
                           <li>
                             <a href="/home">Home</a>
                           </li>
-                          
-                          <li>
-                            <a href="/blog">Blog</a>
-                          </li>
 
                           <li>
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Services <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                              <li><a href="/services/web-design">Web Design</a></li>
-                              <li><a href="/services/web-development">Web Development</a></li>
-                            </ul>
+                            <a href="/services">Services</a>
                           </li>
 
                           <li>
@@ -64,6 +56,10 @@
 
                           <li>
                             <a href="/pricing">Pricing</a>
+                          </li>
+
+                          <li>
+                            <a href="/blog">Blog</a>
                           </li>
 
                           <li>

@@ -1,6 +1,11 @@
 /* WEB DESIGN
 ---------------------------------- */
 
+.services-container {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
 .pv-20 {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -20,4 +25,38 @@
 
 .space-bottom {
   padding-bottom: 20px;
+}
+
+.m-20 {
+  margin-top: 20px;
+}
+
+.fade {
+opacity: 0;
+-webkit-transition: opacity 1.25s linear;
+  -moz-transition: opacity 1.25s linear;
+   -ms-transition: opacity 1.25s linear;
+  -o-transition: opacity 1.25s linear;
+     transition: opacity 1.25s linear;
+}
+
+.nav-pills a {
+    color: #373737;
+}
+
+.nav-pills a:hover {
+    color: $main;
+    border-radius: 0px;
+}
+
+.nav-pills .active a:hover {
+    color: $main;
+    background-color: white;
+    border-radius: 0px;
+}
+.nav>li>a:hover, 
+.nav>li>a:focus {
+    color: $main;
+    background-color: white;
+    border-radius: 0px;
 }
