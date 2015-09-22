@@ -1,7 +1,7 @@
 <div id="footer">
 		<div class="container-fluid clearfix">
 <div class="row vdivide footer-margin">
-	<div class="col-md-12">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 <!-- <div class="container"> -->
 
 <div class="col-md-3">

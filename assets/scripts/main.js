@@ -16,13 +16,6 @@
   // rename this variable, you will also need to rename the namespace below.
   var Sage = {
     // All pages
-    window.activate = function(el) {    
-    var current = document.querySelector('.active');
-    if (current) {
-        current.classList.remove('active');
-    }
-    el.classList.add('active');
-}
     'common': {
       init: function() {
         // JavaScript to be fired on all pages
