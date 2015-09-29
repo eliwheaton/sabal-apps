@@ -20,7 +20,8 @@
 .company-info {
   color: white;
   text-align: left;
-  margin-top: 13px;
+  margin-top: 16px;
+  margin-left: 35px;
 }
 
 .bt-mt {
@@ -28,27 +29,19 @@
   text-align: right;
 }
 
-/* NAV SECTION
+/* NAV SECTION LINKS
 ---------------------------------- */
 
-.navbar-brand {
-  padding-left: 95px;
-}
-
-.logo_text {
-  margin-top: 0px;
-  font-size: 12px;
-  padding-left: 5px;
-}
-
 .navbar {
+  background-color: white;
   margin: 0;
-  height: 90px;
+  padding: 10px 0px 10px 80px;
 }
 
 .navbar-nav {
-  margin-top: 15px;
+  margin-top: 7px;
 }
+
 
 /* NAV SECTION LINKS
 ---------------------------------- */
@@ -56,8 +49,7 @@
 .navbar-default .navbar-nav > li > a {
     color: $main;
     font-size: 15px;
-    text-align: center;
-    padding-left: 50px;
+    padding-left: 65px;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {

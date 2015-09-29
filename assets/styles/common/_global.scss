@@ -45,14 +45,6 @@ hr {
   color: white;
 }
 
-
-/* Small devices (tablets, phones less than 767px) */
-@media (max-width: 767px) {
-  .call-to-action .text-right {
-    text-align: left;
-  }
-}
-
 .section {
   padding: 20px 0;
 }
@@ -90,6 +82,8 @@ hr {
   line-height: 1.46666667;
   border-radius: 4px;
   margin: 10px 0;
+  background-color: white;
+  color: #4CAF50;
 }
 
 .radius-50 {
@@ -347,46 +341,4 @@ background: #428bca;
     font-family: 'Fontawesome';
     float: left;
     margin-right: 10px;
-}
-
-
-
-/**
-  MEDIA QUERIES
-*/
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) { 
-
-    #quote-carousel 
-    {
-      margin-bottom: 0;
-      padding: 0 40px 30px 40px;
-    }
-
-}
-
-/* Small devices (tablets, up to 768px) */
-@media (max-width: 768px) { 
-    
-          /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
-          
-          #quote-carousel .carousel-indicators {
-              bottom: -20px !important;  
-          }
-          #quote-carousel .carousel-indicators li {
-              display: inline-block;
-              margin: 0px 5px;
-              width: 15px;
-              height: 15px;
-          }
-          #quote-carousel .carousel-indicators li.active {
-              margin: 0px 5px;
-              width: 20px;
-              height: 20px;
-          }
-          .item blockquote img 
-          {
-            margin-left: 150px;
-          }
 }

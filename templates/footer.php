@@ -1,10 +1,10 @@
 <div id="footer">
-		<div class="container-fluid clearfix">
-<div class="row vdivide footer-margin">
+		<div class="container-fluid">
+<div class="row footer-margin">
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 <!-- <div class="container"> -->
 
-<div class="col-md-3">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-border">
 <h3 class="col-title">Company Info</h3>
 <p class="cwhite">The #1 Mobile App &amp; Mobile Website Creator For Small Businesses. The fast &amp; easy way for small businesses to create mobile apps &amp; mobile websites.</p>
 <hr class="hr-space">
@@ -29,12 +29,12 @@
 <div style="padding-bottom: 20px;"></div>
 </div><!-- company info ends -->
 
-<div class="col-md-3">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-border">
 <h3 class="col-title">Browse</h3>
 <?php wp_nav_menu( array('menu' => 'Footer Nav', 'menu_class' => 'list-unstyled' ) ); ?>
 </div><!-- browse ends -->
 
-<div class="col-md-3">
+<div class="col-md-3 col-sm-3 footer-border">
 <h3 class="col-title">Latest From Blog</h3>
 <hr>
 <ul>
@@ -61,7 +61,7 @@ echo '<li><a href="' . get_permalink($recent["ID"]) . '">' .   ( __($recent["pos
 </ul>
 </div><!-- latest blog ends -->
 
-<div class="col-md-3">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 <h3 class="col-title">Get Quote</h3>
 <p class="cwhite">Lorem ipsum dolor sit amet, maiores ornare ac fermentum, imperdiet ut vivamus a, nam lectus at nunc. imperdiet ut, maiores ornare ac fermentum, maiores ornare ac fermentum, imperdiet ut vivamus a.</p>
 <div class="footer-button">

@@ -32,10 +32,9 @@
 <div class="container pad-t50">
     <div class="col-md-4 col-md-offset-2">
         <img class="left-block" src="<?php echo bloginfo('template_directory'); ?>/assets/images/SabalLogo copy.png" alt="">
-        <span class="logo_text">Web And Mobile Development</span>
         <div class="space"></div>
 
-<hr class="hr-space">
+<hr class="hr-space col-sm-12">
       <ul class="list-inline footer-social">
       <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/facebokcirclecolor32x32.png" href="www.facebook.com" alt="facebook"></li>
       <li><img src="<?php echo bloginfo('template_directory'); ?>/assets/images/social/twittercirclecolor32x32.png" href="www.twitter.com" alt="twitter"></li>

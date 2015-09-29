@@ -3,14 +3,14 @@
 
         
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-sm-12 col-md-10 col-lg-8">
                 <h2 class="section-title">Portfolio</h2>
                 <p class="portfolio-header">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
         <!-- /.row -->
 
-        <hr class="col-md-8">
+        <hr class="col-md-7">
 
 <div class="portfolio-body">
 

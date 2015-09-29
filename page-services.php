@@ -3,13 +3,13 @@
 <div class="row">
 <div class="col-md-12 services-container">
 
-        <div class="col-md-10">
+        <div class="col-sm-12 col-md-10">
       <h2 class="section-title">Discovery</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque.</p>
       <a class="btn btn-primary pull-right" href="#">Get Started <span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
 
-<hr class="col-md-10">
+<hr class="col-sm-12 col-md-10">
 
 <div class="container">
 <div class="row">
@@ -22,7 +22,7 @@
 <div class="row">
 <div class="col-md-12">
 
-            <div class="col-md-3">
+            <div class="col-sm-4 col-md-3">
             <ul class="nav nav-pills nav-stacked">
                <li class="active"><a href="#Mockup" data-toggle="tab">Mockup</a></li>
                <li><a href="#Wireframe" data-toggle="tab">Wireframe</a></li>
@@ -31,7 +31,7 @@
             </ul>
             </div>
 
-   <div class="tab-content">
+   <div class="tab-content col-sm-7">
 
       <div class="tab-pane fade in active" id="Mockup">
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
@@ -71,7 +71,7 @@
 
         <h2 class="section-title text-center">Make It Work</h2>
 
-        <div class="col-md-3">
+        <div class="col-sm-4 col-md-3">
         <ul class="nav nav-pills nav-stacked">
           <li class="active"><a href="#DesignBrief" data-toggle="tab">Design Brief</a></li>
           <li><a href="#InitialMeeting" data-toggle="tab">Initial Meeting</a></li>
@@ -80,7 +80,7 @@
         </ul>
         </div>
 
-<div class="tab-content">
+<div class="tab-content col-sm-7">
 
           <div id="DesignBrief" class="tab-pane fade in active">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
@@ -116,7 +116,7 @@
 
         <h2 class="section-title text-center">Make It Profitable</h2>
 
-        <div class="col-md-3">
+        <div class="col-sm-4 col-md-3">
         <ul class="nav nav-pills nav-stacked">
           <li class="active"><a href="#SiteProduction" data-toggle="tab">Site Production</a></li>
           <li><a href="#WebHosting" data-toggle="tab">Web Hosting</a></li>
@@ -125,7 +125,7 @@
         </ul>
         </div>
 
-<div class="tab-content">
+<div class="tab-content col-sm-7">
 
           <div id="SiteProduction" class="tab-pane fade in active">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>
@@ -161,7 +161,7 @@
 
         <h2 class="section-title text-center">Make It Known</h2>
 
-        <div class="col-md-3">
+        <div class="col-sm-4 col-md-3">
         <ul class="nav nav-pills nav-stacked">
           <li class="active"><a href="#OnlineMarketingPlan" data-toggle="tab">Online Marketing Plan</a></li>
           <li><a href="#SEOInjection" data-toggle="tab">SEO Injection</a></li>
@@ -170,7 +170,7 @@
         </ul>
         </div>
 
-<div class="tab-content">
+<div class="tab-content col-sm-7">
 
           <div id="OnlineMarketingPlan" class="tab-pane fade in active">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. At distinctio quia, et natus nulla cumque consequuntur, sed, quam aliquam excepturi ea necessitatibus facilis, vero illum dignissimos eligendi quasi consectetur possimus.</p>

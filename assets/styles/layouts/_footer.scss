@@ -3,13 +3,14 @@
 }
 
 .footer-margin {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 20px;
 }
 
 .col-title {
   font-family: 'Raleway', sans-serif;
   color: white;
+  margin-top: 0;
 }
 
 .hrwidth {
@@ -32,20 +33,8 @@
   border: none;
 }
 
-.row.vdivide [class*='col-']:after {
-  background: #cac9c9;
-  width: 1px;
-  content: "";
-  display:block;
-  position: absolute;
-  top:10px;
-  bottom: 0;
-  right: 0;
-  min-height: 70px;
-}
-
-.row.vdivide [class*='col-']:last-child {
-  border-right: none;
+.footer-border {
+  border-right: white solid 1px;
 }
 
 .footer-social li {
